@@ -1,6 +1,6 @@
 # HHA_Management App Beta Installation
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YVj4EKQuQOw/0.jpg)](http://www.youtube.com/watch?v=YVj4EKQuQOw "Demo")
+[![Demo](http://img.youtube.com/vi/YVj4EKQuQOw/1.jpg)](http://www.youtube.com/watch?v=YVj4EKQuQOw "Demo")
 
 This app is for managing the Hiep Hoa Asia Food Store's Website
 
